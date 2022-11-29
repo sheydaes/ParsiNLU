@@ -4,5 +4,5 @@ Classification Task for ParsiNLU Dataset based on Textual entailment using Trans
 
 ### Designinng a deep neural network for Classification
 
---Using XLM-RoBERTa for Word-embedding
---Using ParsBERT for Word-embedding
+- Using XLM-RoBERTa for Word-embedding
+- Using ParsBERT for Word-embedding
